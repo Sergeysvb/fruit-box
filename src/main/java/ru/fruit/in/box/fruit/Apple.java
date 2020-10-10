@@ -7,4 +7,5 @@ public class Apple extends Fruit {
     public Double getWeight() {
         return weight;
     }
+
 }

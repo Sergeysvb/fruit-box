@@ -35,5 +35,4 @@ public class BoxWithFruits<F extends Fruit> {
         }
         return sum;
     }
-
 }

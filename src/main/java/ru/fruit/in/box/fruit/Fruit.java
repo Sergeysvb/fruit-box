@@ -6,4 +6,5 @@ public class Fruit {
     public Double getWeight() {
         return weight;
     }
+
 }

@@ -22,5 +22,4 @@ public class BoxWithFruitsTest {
 
         System.out.println(appleBox.getBoxWeight());
     }
-
 }
